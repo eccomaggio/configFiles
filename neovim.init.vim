@@ -1,0 +1,1 @@
+/Users/paulwakelin/.config/nvim/init.vim
